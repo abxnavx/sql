@@ -7,3 +7,4 @@ INSERT INTO books (id, title, author, price, genre) VALUES
 (4, 'The History of India', 'Romila Thapar', 500, 'History'),
 (5, 'Inferno', 'Dan Brown', 550, 'Thriller');
 SELECT * FROM `books` WHERE price>40;
+SELECT * FROM `books` WHERE price>40;
